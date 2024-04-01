@@ -117,3 +117,25 @@ C:\Users\Arbaaz\Desktop\(CO699) Project\Code\Bluetooth_Remote_Control_App\obj\De
 C:\Users\Arbaaz\Desktop\(CO699) Project\Code\Bluetooth_Remote_Control_App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Arbaaz\Desktop\(CO699) Project\Code\Bluetooth_Remote_Control_App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Arbaaz\Desktop\(CO699) Project\Code\Bluetooth_Remote_Control_App\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.csproj.AssemblyReference.cache
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.AssemblyInfoInputs.cache
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.AssemblyInfo.cs
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.csproj.CoreCompileInputs.cache
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.sourcelink.json
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.dll
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Bluetooth_Remote_Control_App.dll
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Bluetooth_Remote_Control_App.pdb

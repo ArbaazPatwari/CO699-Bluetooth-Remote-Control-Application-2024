@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\Bluetooth_Remote_Control_App.csproj": {}
+    "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_Remote_Control_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\Bluetooth_Remote_Control_App.csproj": {
+    "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_Remote_Control_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\Bluetooth_Remote_Control_App.csproj",
+        "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_Remote_Control_App.csproj",
         "projectName": "Bluetooth_Remote_Control_App",
-        "projectPath": "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\Bluetooth_Remote_Control_App.csproj",
+        "projectPath": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_Remote_Control_App.csproj",
         "packagesPath": "C:\\Users\\Arbaaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\obj\\",
+        "outputPath": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

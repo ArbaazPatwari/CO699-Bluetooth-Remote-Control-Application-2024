@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gXLQjLfnKgs6P8s4lvSH4pvrf2P81E/yWfvuKe2pBxQvPbiM5zi2HbJFbpJIZxywQ//+qTgepn1rA7xf0LDt/g==",
+  "dgSpecHash": "3HYpJB2FVxO/M5Fe26DCAGmxb7V1b29Ou9uHMMc8lqxvyyZAi1FRyqms8b6UUSgAtUSRj7OPafiOrDnWxml4Xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arbaaz\\Desktop\\(CO699) Project\\Code\\Bluetooth_Remote_Control_App\\Bluetooth_Remote_Control_App.csproj",
+  "projectFilePath": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_Remote_Control_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arbaaz\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Arbaaz\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

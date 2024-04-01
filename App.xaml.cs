@@ -1,4 +1,6 @@
-﻿namespace Bluetooth_Remote_Control_App
+﻿using Bluetooth_Remote_Control_App.Views;
+
+namespace Bluetooth_Remote_Control_App
 {
     public partial class App : Application
     {
@@ -6,7 +8,7 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new MainPage();
         }
     }
 }
