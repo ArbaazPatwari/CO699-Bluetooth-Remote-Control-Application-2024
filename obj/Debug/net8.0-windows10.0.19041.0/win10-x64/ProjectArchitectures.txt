@@ -1,1 +1,1 @@
-C:\Users\Arbaaz\Desktop\(CO699) Project\Code\Bluetooth_Remote_Control_App\Bluetooth_Remote_Control_App.csproj;x64
+C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\Bluetooth_Remote_Control_App.csproj;x64
