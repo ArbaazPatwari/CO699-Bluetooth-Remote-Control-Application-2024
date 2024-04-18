@@ -572,7 +572,6 @@ C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\Arbaaz\Documents\repos\CO699-Bluetooth-Remote-Control-Application-2024\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs

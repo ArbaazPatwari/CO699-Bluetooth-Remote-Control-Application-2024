@@ -9,7 +9,7 @@
     Title="Bluetooth_Remote_Control_App">
 
     <ShellContent
-        Title="Home"
+        Title="Home Screen"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="HomePage" />
 
