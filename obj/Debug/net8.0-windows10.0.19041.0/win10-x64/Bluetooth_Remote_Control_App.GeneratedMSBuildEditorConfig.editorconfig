@@ -24,6 +24,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Bluetooth_Remote_Control_A
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Arbaaz/Documents/repos/CO699-Bluetooth-Remote-Control-Application-2024/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bluetooth_Remote_Control_App.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
 [C:/Users/Arbaaz/Documents/repos/CO699-Bluetooth-Remote-Control-Application-2024/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Bluetooth_Remote_Control_App.MainPage.xaml

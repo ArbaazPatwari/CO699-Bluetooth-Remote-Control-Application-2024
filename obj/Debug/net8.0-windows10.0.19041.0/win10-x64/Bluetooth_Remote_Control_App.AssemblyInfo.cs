@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bluetooth_Remote_Control_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f0b9bbd2e79ae3eab6eb158c6c10123ae52bf5f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5c861b80c52d1f9b0fa326b52141c56481e2ceaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bluetooth_Remote_Control_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bluetooth_Remote_Control_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,13 @@
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            
+            <HorizontalStackLayout>
+                <Button
+                    Text="Left Click"
+                    FontSize="20"
+                >
+                </Button>
+            </HorizontalStackLayout>
         </VerticalStackLayout>
     </ScrollView>
 
