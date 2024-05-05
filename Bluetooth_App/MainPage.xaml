@@ -5,6 +5,36 @@
 
 
     <Grid>
-        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.43*"/>
+                <ColumnDefinition Width="0.12*"/>
+                <ColumnDefinition Width="0.43*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Grid content -->
+            <Button Grid.Row="0" Grid.Column="0"/>
+            <Button Grid.Row="0" Grid.Column="1"/>
+            <Button Grid.Row="0" Grid.Column="2"/>
+        </Grid>
+
+        <!-- Another Grid -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.00*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0"/>
+        </Grid>
     </Grid>
+
 </ContentPage>
+    
