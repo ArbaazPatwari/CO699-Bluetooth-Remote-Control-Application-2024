@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bluetooth_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d2acad10042fe8fae1cf31a1e650b933a6d3c1b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3098f7256f68890cb150ea1c5aea5f905c779138")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bluetooth_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bluetooth_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

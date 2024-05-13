@@ -13,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|c:\\users\\arbaaz\\documents\\repos\\co699-bluetooth-remote-control-application-2024\\bluetooth_app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|c:\\users\\arbaaz\\documents\\repos\\co699-bluetooth-remote-control-application-2024\\bluetooth_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|c:\\users\\arbaaz\\documents\\repos\\co699-bluetooth-remote-control-application-2024\\bluetooth_app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|c:\\users\\arbaaz\\documents\\repos\\co699-bluetooth-remote-control-application-2024\\bluetooth_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF625227-FF4D-443F-8B17-845A34074549}|Bluetooth_App.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,6 +54,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T12:50:32.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\App.xaml",
@@ -50,19 +75,8 @@
               "RelativeToolTip": "App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T07:45:35.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-03T07:45:34.331Z"
+              "WhenOpened": "2024-05-11T12:50:31.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,9 +86,48 @@
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-30T11:01:45.158Z",
+              "WhenOpened": "2024-05-11T12:49:52.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:49:51.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:48:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Arbaaz\\Documents\\repos\\CO699-Bluetooth-Remote-Control-Application-2024\\Bluetooth_App\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:15:08.98Z",
               "EditorCaption": ""
             }
           ]
